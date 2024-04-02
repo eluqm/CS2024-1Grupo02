@@ -36,4 +36,4 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 ## Desarrollo
 
 ### Diagramas
-[1](https://drive.google.com/file/d/1iw0jSlQ48WH0X-YsDrWf2jS3xgEpX9Kr/view?usp=sharing "1")
+[Diagrama Entidad-Relacion](https://drive.google.com/file/d/1iw0jSlQ48WH0X-YsDrWf2jS3xgEpX9Kr/view?usp=sharing "1")
