@@ -21,6 +21,8 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 
 ### Tecnologias Usadas
 
+- [MIT APP INVENTOR](https://appinventor.mit.edu/ "MIT APP INVENTOR")
+
 [![MIT APP INVENTOR](https://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png "MIT APP INVENTOR")](https://appinventor.mit.edu/explore/sites/explore.appinventor.mit.edu/files/ai-bee-logo.png "MIT APP INVENTOR")
 
 ### Caracteristicas 
