@@ -36,5 +36,4 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 ## Desarrollo
 
 ### Diagramas
-
 ![download](https://github.com/mela0405/offlibray/assets/113139985/4208c6fb-e89d-478b-bf02-555a4058ea6a)
