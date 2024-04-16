@@ -59,8 +59,8 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 ### Casos de uso
 
 **1. Descargar material de estudio:**
-Actor Principal: Estudiante
-Descripción: El estudiante puede buscar y descargar materiales de estudio, como libros electrónicos, notas de clase y presentaciones, para acceder a ellos sin conexión a internet.
+- Actor Principal: Estudiante
+- Descripción: El estudiante puede buscar y descargar materiales de estudio, como libros electrónicos, notas de clase y presentaciones, para acceder a ellos sin conexión a internet.
 - Flujo:
     - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- El estudiante abre la aplicación y navega hasta la sección de materiales de estudio.
     - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- El estudiante busca el material deseado utilizando filtros de búsqueda o categorías.
@@ -68,24 +68,24 @@ Descripción: El estudiante puede buscar y descargar materiales de estudio, como
     - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- La aplicación descarga el material y lo almacena localmente en el dispositivo del estudiante para su acceso offline.
 
 **2. Ver Capítulo Seleccionado:**
-Actores: Usuario
-Descripción: El usuario selecciona un capítulo específico desde la barra lateral.
+- Actores: Usuario
+- Descripción: El usuario selecciona un capítulo específico desde la barra lateral.
 - Flujo:
     - El usuario abre la aplicación y navega a la lista de capítulos en la barra lateral.
     - El usuario selecciona el capítulo deseado.
     - La aplicación carga el contenido del capítulo seleccionado y lo muestra en la ventana principal.
 
 **3. Navegar Entre Capítulos:**
-Actores: Usuario
-Descripción: El usuario navega entre los diferentes capítulos disponibles.
+- Actores: Usuario
+- Descripción: El usuario navega entre los diferentes capítulos disponibles.
 - Flujo:
     - El usuario abre la aplicación y visualiza la lista de capítulos en la barra lateral.
     - El usuario utiliza los controles de navegación para desplazarse hacia arriba o hacia abajo por la lista de capítulos.
     - El usuario selecciona un capítulo para ver su contenido en la ventana principal.
 
 **4. Ajustar Configuraciones de Visualización:**
-Actores: Usuario
-Descripción: El usuario ajusta las configuraciones de visualización según sus preferencias.
+- Actores: Usuario
+- Descripción: El usuario ajusta las configuraciones de visualización según sus preferencias.
 - Flujo:
     - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- El usuario abre la aplicación y accede a la pantalla de configuración.
     - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- El usuario selecciona las opciones de visualización deseadas, como el tamaño de la fuente, el color del texto o el tema.
