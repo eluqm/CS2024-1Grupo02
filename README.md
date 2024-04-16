@@ -37,3 +37,57 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 
 ### Diagramas
 [Diagrama Entidad-Relacion](https://drive.google.com/file/d/1iw0jSlQ48WH0X-YsDrWf2jS3xgEpX9Kr/view?usp=sharing "1")
+
+### Requisitos
+
+#### Requisitos Funcionales
+
+- **Descarga de materiales educativos:** Los usuarios pueden descargar libros educativos para acceder a ellos sin conexión.
+- **Acceso a recursos educativos:** Los usuarios pueden acceder a una variedad de recursos educativos, como libros y artículos, incluso sin conexión a internet.
+- **Visualización de Capítulos:** La aplicación debe permitir a los usuarios ver una lista de capítulos disponibles en una barra lateral o en un menú desplegable.
+- **Navegación entre Capítulos:** Los usuarios deben poder navegar fácilmente entre los capítulos haciendo clic en el capítulo deseado en la barra lateral.
+- **Modo de Lectura Continua:** Permitir a los usuarios leer los capítulos de forma continua, sin necesidad de seleccionar cada capítulo individualmente.
+
+#### Requisitos No Funcionales
+
+- **Interfaz de Usuario Intuitiva:** La aplicación debe tener una interfaz de usuario intuitiva y fácil de usar, con una barra lateral clara y controles de reproducción simples.
+- **Almacenamiento de Datos Local:** Permitir que la aplicación almacene datos localmente en el dispositivo del usuario para que pueda funcionar sin conexión a internet.
+- **Tiempo de Respuesta:** Mantener tiempos de respuesta rápidos para la navegación entre capítulos y la reproducción de contenido, minimizando los retrasos y la carga.
+- **Adaptabilidad de la Interfaz:** Ajustar la interfaz de usuario para adaptarse a diferentes tamaños de pantalla y orientaciones, asegurando una experiencia de usuario coherente en todos los dispositivos.
+- **Compatibilidad con Dispositivos Antiguos:** Asegurar que la aplicación sea compatible con dispositivos más antiguos y de baja potencia para garantizar que pueda ser utilizada por una amplia gama de usuarios.
+  
+### Casos de uso
+
+**1. Descargar material de estudio:**
+Actor Principal: Estudiante
+Descripción: El estudiante puede buscar y descargar materiales de estudio, como libros electrónicos, notas de clase y presentaciones, para acceder a ellos sin conexión a internet.
+- Flujo:
+    - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- El estudiante abre la aplicación y navega hasta la sección de materiales de estudio.
+    - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- El estudiante busca el material deseado utilizando filtros de búsqueda o categorías.
+    - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- Una vez encontrado, el estudiante selecciona el material y elige la opción de descargar.
+    - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- La aplicación descarga el material y lo almacena localmente en el dispositivo del estudiante para su acceso offline.
+
+**2. Ver Capítulo Seleccionado:**
+Actores: Usuario
+Descripción: El usuario selecciona un capítulo específico desde la barra lateral.
+- Flujo:
+    - El usuario abre la aplicación y navega a la lista de capítulos en la barra lateral.
+    - El usuario selecciona el capítulo deseado.
+    - La aplicación carga el contenido del capítulo seleccionado y lo muestra en la ventana principal.
+
+**3. Navegar Entre Capítulos:**
+Actores: Usuario
+Descripción: El usuario navega entre los diferentes capítulos disponibles.
+- Flujo:
+    - El usuario abre la aplicación y visualiza la lista de capítulos en la barra lateral.
+    - El usuario utiliza los controles de navegación para desplazarse hacia arriba o hacia abajo por la lista de capítulos.
+    - El usuario selecciona un capítulo para ver su contenido en la ventana principal.
+
+**4. Ajustar Configuraciones de Visualización:**
+Actores: Usuario
+Descripción: El usuario ajusta las configuraciones de visualización según sus preferencias.
+- Flujo:
+    - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- El usuario abre la aplicación y accede a la pantalla de configuración.
+    - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- El usuario selecciona las opciones de visualización deseadas, como el tamaño de la fuente, el color del texto o el tema.
+    - El usuario selecciona un capítulo para ver su contenido en la ventana principal.- El usuario guarda los cambios y la aplicación actualiza la visualización de acuerdo con las nuevas configuraciones.
+
