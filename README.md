@@ -82,3 +82,25 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 
 [![configuracion.png](https://i.postimg.cc/SRHZXL7K/configuracion.png)](https://postimg.cc/H840RyNG)
 
+
+### MOCKUPS
+
+[![1.png](https://i.postimg.cc/Kcksjjbh/1.png)](https://postimg.cc/ThxcHRht)
+
+[![2.png](https://i.postimg.cc/tCFSdc7r/2.png)](https://postimg.cc/4mNQsB6t)
+
+[![3.png](https://i.postimg.cc/BnshmCKJ/3.png)](https://postimg.cc/Tp7qwg0s)
+
+[![4.png](https://i.postimg.cc/QdbfwWQ1/4.png)](https://postimg.cc/qNNcCqZv)
+
+[![5.png](https://i.postimg.cc/d03jfNtc/5.png)](https://postimg.cc/2qpWbwZ0)
+
+[![6.png](https://i.postimg.cc/FzNfM1gk/6.png)](https://postimg.cc/JDY4JrFR)
+
+[![7.png](https://i.postimg.cc/8kmfhBNR/7.png)](https://postimg.cc/Wtt4VZDz)
+
+[![8.png](https://i.postimg.cc/DyfJ5Jwt/8.png)](https://postimg.cc/23JSS5vw)
+
+[![9.png](https://i.postimg.cc/Dw8Wk9s6/9.png)](https://postimg.cc/gxbc3BgL)
+
+[![10.png](https://i.postimg.cc/3xVkKtFT/10.png)](https://postimg.cc/SnLSd7PT)
