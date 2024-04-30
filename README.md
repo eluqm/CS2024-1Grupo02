@@ -27,7 +27,8 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 
 ### Caracteristicas 
 
-- inicio de sesion o crear cuenta
+- Inicio de sesion
+- Crear cuenta
 - Indice para ver los subitulos de cada libro
 - Pagina para mostrar todos los libros
 - Menu lateral con los grados de estudio
