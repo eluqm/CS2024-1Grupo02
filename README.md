@@ -58,19 +58,27 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
   
 ### Casos de uso
 
-**1. Descargar material de estudio:**
+**1. Crear cuenta:**
+
+[![crear-cuenta.png](https://i.postimg.cc/CK46vqYv/crear-cuenta.png)](https://postimg.cc/qtzLqgNn)
+
+**2. Iniciar sesion:**
+
+[![inicio-de-sesion.png](https://i.postimg.cc/qRbDrHNy/inicio-de-sesion.png)](https://postimg.cc/ftdf7FjR)
+
+**3. Descargar material de estudio:**
 
 [![descargar-material-de-estudio.png](https://i.postimg.cc/FHpj8gdJ/descargar-material-de-estudio.png)](https://postimg.cc/k2V6tSyn)
 
-**2. Ver Capítulo Seleccionado:**
+**4. Ver Capítulo Seleccionado:**
 
 [![ver-capitulo-seleccionado.png](https://i.postimg.cc/qBK24d6r/ver-capitulo-seleccionado.png)](https://postimg.cc/dDqhjp9N)
 
-**3. Navegar Entre Capítulos:**
+**5. Navegar Entre Capítulos:**
 
 [![navegar-entre-capitulos.png](https://i.postimg.cc/L89PtYC4/navegar-entre-capitulos.png)](https://postimg.cc/kBHD94PL)
 
-**4. Ajustar Configuraciones de Visualización:**
+**6. Ajustar Configuraciones de Visualización:**
 
-[![configuracion.png](https://i.postimg.cc/PqN8cGnB/configuracion.png)](https://postimg.cc/zLZBbcBj)
+[![configuracion.png](https://i.postimg.cc/SRHZXL7K/configuracion.png)](https://postimg.cc/H840RyNG)
 
