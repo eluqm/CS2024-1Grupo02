@@ -119,3 +119,15 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 
 ### Resultados
 
+[![login2.jpg](https://i.postimg.cc/8PzSRcV4/login2.jpg)](https://postimg.cc/mhJJRbk1)
+
+[![login3.jpg](https://i.postimg.cc/m2pG84Ls/login3.jpg)](https://postimg.cc/YhFVCJLn)
+
+[![login4.jpg](https://i.postimg.cc/zGLYQQvR/login4.jpg)](https://postimg.cc/qNdFhj8k)
+
+[![login6.jpg](https://i.postimg.cc/764vfYVg/login6.jpg)](https://postimg.cc/JypYF8Sn)
+
+[![cargar.jpg](https://i.postimg.cc/3xPQQZ0f/cargar.jpg)](https://postimg.cc/sM9Np7c5)
+
+
+
