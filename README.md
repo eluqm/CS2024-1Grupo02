@@ -86,9 +86,13 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 
 ### MOCKUPS
 
-[![1.png](https://i.postimg.cc/Kcksjjbh/1.png)](https://postimg.cc/ThxcHRht)
+[![login.png](https://i.postimg.cc/zGDVR8dY/login.png)](https://postimg.cc/hfwSkWW2)
 
-[![2.png](https://i.postimg.cc/tCFSdc7r/2.png)](https://postimg.cc/4mNQsB6t)
+[![login1.png](https://i.postimg.cc/tT6THTgW/login1.png)](https://postimg.cc/tZXy39W4)
+
+[![registrarse.png](https://i.postimg.cc/MpsX7N4M/registrarse.png)](https://postimg.cc/Wdk2jWsT)
+
+[![registrarse-1.png](https://i.postimg.cc/Y219nhZw/registrarse-1.png)](https://postimg.cc/6TptT5BH)
 
 [![3.png](https://i.postimg.cc/BnshmCKJ/3.png)](https://postimg.cc/Tp7qwg0s)
 
