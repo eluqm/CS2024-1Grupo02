@@ -86,13 +86,9 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 
 ### MOCKUPS
 
-[![login.png](https://i.postimg.cc/zGDVR8dY/login.png)](https://postimg.cc/hfwSkWW2)
+[![1.jpg](https://i.postimg.cc/g02mSSxj/1.jpg)](https://postimg.cc/VJpx5FBP)
 
-[![login1.png](https://i.postimg.cc/tT6THTgW/login1.png)](https://postimg.cc/tZXy39W4)
-
-[![registrarse.png](https://i.postimg.cc/MpsX7N4M/registrarse.png)](https://postimg.cc/Wdk2jWsT)
-
-[![registrarse-1.png](https://i.postimg.cc/Y219nhZw/registrarse-1.png)](https://postimg.cc/6TptT5BH)
+[![3.jpg](https://i.postimg.cc/wvSzB90R/3.jpg)](https://postimg.cc/0MdFW1g9)
 
 [![3.png](https://i.postimg.cc/BnshmCKJ/3.png)](https://postimg.cc/Tp7qwg0s)
 
@@ -109,3 +105,14 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 [![9.png](https://i.postimg.cc/Dw8Wk9s6/9.png)](https://postimg.cc/gxbc3BgL)
 
 [![10.png](https://i.postimg.cc/3xVkKtFT/10.png)](https://postimg.cc/SnLSd7PT)
+
+
+### Desarrollo
+
+[![login.png](https://i.postimg.cc/zGDVR8dY/login.png)](https://postimg.cc/hfwSkWW2)
+
+[![login1.png](https://i.postimg.cc/tT6THTgW/login1.png)](https://postimg.cc/tZXy39W4)
+
+[![registrarse.png](https://i.postimg.cc/MpsX7N4M/registrarse.png)](https://postimg.cc/Wdk2jWsT)
+
+[![registrarse-1.png](https://i.postimg.cc/Y219nhZw/registrarse-1.png)](https://postimg.cc/6TptT5BH)
