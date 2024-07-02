@@ -67,19 +67,8 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 
 [![inicio-de-sesion.png](https://i.postimg.cc/qRbDrHNy/inicio-de-sesion.png)](https://postimg.cc/ftdf7FjR)
 
-**3. Descargar material de estudio:**
 
-[![descargar-material-de-estudio.png](https://i.postimg.cc/FHpj8gdJ/descargar-material-de-estudio.png)](https://postimg.cc/k2V6tSyn)
-
-**4. Ver Capítulo Seleccionado:**
-
-[![ver-capitulo-seleccionado.png](https://i.postimg.cc/qBK24d6r/ver-capitulo-seleccionado.png)](https://postimg.cc/dDqhjp9N)
-
-**5. Navegar Entre Capítulos:**
-
-[![navegar-entre-capitulos.png](https://i.postimg.cc/L89PtYC4/navegar-entre-capitulos.png)](https://postimg.cc/kBHD94PL)
-
-**6. Ajustar Configuraciones de Visualización:**
+**3. Ajustar Configuraciones de Visualización:**
 
 [![configuracion.png](https://i.postimg.cc/SRHZXL7K/configuracion.png)](https://postimg.cc/H840RyNG)
 
@@ -97,12 +86,6 @@ El objetivo sería el acceso a la educación al proporcionar recursos de calidad
 [![5.png](https://i.postimg.cc/d03jfNtc/5.png)](https://postimg.cc/2qpWbwZ0)
 
 [![6.png](https://i.postimg.cc/FzNfM1gk/6.png)](https://postimg.cc/JDY4JrFR)
-
-[![7.png](https://i.postimg.cc/8kmfhBNR/7.png)](https://postimg.cc/Wtt4VZDz)
-
-[![8.png](https://i.postimg.cc/DyfJ5Jwt/8.png)](https://postimg.cc/23JSS5vw)
-
-[![9.png](https://i.postimg.cc/Dw8Wk9s6/9.png)](https://postimg.cc/gxbc3BgL)
 
 [![10.png](https://i.postimg.cc/3xVkKtFT/10.png)](https://postimg.cc/SnLSd7PT)
 
